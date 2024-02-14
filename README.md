@@ -1,24 +1,25 @@
-# e-commerceBackEnd
+# onlineShoppingBehindCurtains 
+(e-commerceBackEnd)
 By Maymi Sarr
 
 
 ## Table of ContentsS
 - [Purpose](#title)
 - [Description](#description)
-- [Link](#Video Walkthrough link)
 - [Installation](#installation)
+- [Video walkthrough link](#link)
 
 
 
 
 ## Purpose
-<!-- This app was made to familiarize developers with the back end design for e-commerce sites, because they are prevalent platforms that can generate trillions of dollars yearly. -->
+This app was made to familiarize developers with the back end design for e-commerce sites,  to mae for easier communicationbecause they are prevalent platforms that generate trillions of dollars yearly, and only continue to grow as the online market is always branching out
 
 
 ## Description
-With this app, the user is able to  
-<!-- This challenge is to build a back end for e-commerce site[s].
-Internet retail, empowers businesses and consumers to conveniently engage in online buying and selling of electronic products. 2.54 trillion generated. Due to the prevalence of these platforms, developers should understand the fundamental architecture of e-commerce sites.  -->
+With this app, business managers for online retail platforms can stay current with competitors by providing a back end that uses the latest technologies as the online market expands in terms of platforms, items, and inturn, activity and money generated.
+
+
 
 
 
@@ -27,13 +28,14 @@ Internet retail, empowers businesses and consumers to conveniently engage in onl
 ## Installation
 <div>Express.js</div>
 <div>Sequelize</div>
-<div>MySQL, MySQL2</div>
+<div>MySQL</div>
+<div>MySQL2</div>
 <div>dotenv</div>
 <div>Insomnia Core</div>
 
 
 
-## Link
+## Video walkthrough link
 
 
 
